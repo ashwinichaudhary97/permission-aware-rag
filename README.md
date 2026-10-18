@@ -1,4 +1,4 @@
-﻿# Permission-Aware RAG: Row-Level Access Control for Enterprise Retrieval
+# Permission-Aware RAG: Row-Level Access Control for Enterprise Retrieval
 
 A minimal, reproducible RAG system that demonstrates a common enterprise failure - silent permission leakage - and fixes it with an ACL pre-filter at the retrieval layer.
 
